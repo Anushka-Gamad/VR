@@ -6,6 +6,7 @@ import Avatar2 from '../assets/img/avt2.png';
 import Avatar3 from '../assets/img/avt3.png';
 import Avatar4 from '../assets/img/avt4.png';
 
+
 //import icons
 import { BsFillCircleFill } from 'react-icons/bs';
 

@@ -7,6 +7,8 @@ import Banner from './components/Banner';
 import NavMobile from './components/NavMobile';
 import Experience from './components/Experience';
 
+
+
 const App = () => {
   const [navMobile, setNavMobile] = useState(true);
 

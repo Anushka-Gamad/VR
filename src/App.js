@@ -6,11 +6,12 @@ import Header from './components/Header';
 import Banner from './components/Banner';
 import NavMobile from './components/NavMobile';
 import Experience from './components/Experience';
-
+import Video from './components/Video';
+import Headsets from './components/Headsets';
 
 
 const App = () => {
-  const [navMobile, setNavMobile] = useState(true);
+  const [navMobile, setNavMobile] = useState(false);
 
   return (
     <div className='relative overflow-hidden 
@@ -24,6 +25,8 @@ const App = () => {
         <NavMobile setNavMobile={setNavMobile}/>
       </div>
       <Experience />
+      <Video />
+      <Headsets />
     </div>
   );
 };

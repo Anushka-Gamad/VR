@@ -18,7 +18,7 @@ const Testimonial = () => {
             <p className='max-w-2xl mx-auto mb-12
             lg:mb-24' data-aos='fade-up' 
             data-aos-offset='300'
-            data-aos-delay='1800'>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+            data-aos-delay='1800'>Virtual reality is a technology that attempts to regenerate computer images and videos to produce real-life visual experiences that are beyond those achieved on the ordinary computer monitor and phone.
             </p>
           </div>
           {/* slider */}

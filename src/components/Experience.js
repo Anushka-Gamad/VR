@@ -31,7 +31,7 @@ const Experience = () => {
             data-aos='fade-left'
             data-aos-offset='400'>
             <h2 className='text-3xl font-bold mb-6'>New Experience In Playing Games</h2>
-            <p className='font-secondary mb-6'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p className='font-secondary mb-6'> computer vision to help understand objects and position tracking to help track user movement to place the objects effectively on the display and to change the perception so that the user can “see the world”.</p>
             <button className='btn'>Get it now</button>
           </div>
         </div>

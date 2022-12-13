@@ -22,7 +22,7 @@ const Banner = () => {
                     <br/> Three-Dimensional Visually.</h1>
             <p className='font-secondary mb-12 max-w-[440px] mx-auto lg:mx-0' data-aos='fade-down'
             data-aos-delay='600'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+              A 3D experience while moving around large areas, or they can be used with multiple participants.</p>
         {/* </div> */}
         {/*btn*/}
             <div className='flex items-center

@@ -30,7 +30,7 @@ const Headsets = () => {
             backdrop-blur-md max-w-[300px] min-h-[150px]
             p-6'>
                <h4 className='font-semibold text-xl mb-2'>Metaverse</h4>
-               <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. 
+               <p> In science fiction, the "metaverse" is a hypothetical iteration of the Internet as a single, universal, and immersive virtual world that is facilitated by the use of virtual reality and augmented reality headsets. 
 
                </p>
             </div>
@@ -45,7 +45,7 @@ const Headsets = () => {
             backdrop-blur-md max-w-[300px] min-h-[150px]
             p-6'>
                <h4 className='font-semibold text-xl mb-2'>AIoT</h4>
-               <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. 
+               <p> Artificial intelligence of things (AIoT) is the combination of artificial intelligence (AI) technologies and the internet of things (IoT) infrastructure. AIoT's goal is to create more efficient IoT operations, improve human-machine interactions and enhance data management and analytics. 
 
                </p>
             </div>
@@ -54,13 +54,13 @@ const Headsets = () => {
           <div className='relative'
           data-aos='zoom-in'
           data-aos-offset='300' 
-          data-aos-delay='1600'>>
+          data-aos-delay='1600'>
             <img src={Headset3} alt='' />
             <div className='absolute bottom-0 bg-white/20
             backdrop-blur-md max-w-[300px] min-h-[150px]
             p-6'>
                <h4 className='font-semibold text-xl mb-2'>HoloLens</h4>
-               <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. 
+               <p> HoloLens is an augmented reality (AR)/mixed reality (MR) headset developed and manufactured by Microsoft. HoloLens runs the Windows Mixed Reality platform under the Windows 10 operating system. 
 
                </p>
             </div>
@@ -72,10 +72,10 @@ const Headsets = () => {
           data-aos-delay='1900'>
             <img src={Headset4} alt='' />
             <div className='absolute bottom-0 bg-white/20
-            backdrop-blur-md max-w-[300px] min-h-[150px]
+            backdrop-blur-md max-w-[300px] min-h-[140px]
             p-6'>
                <h4 className='font-semibold text-xl mb-2'>TPCASTT</h4>
-               <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. 
+               <p> Virtual reality sickness (VR motion sickness) is the physical discomfort that occurs when an end user's brain receives conflicting signals about self-movement in a digital environment.
 
                </p>
             </div>

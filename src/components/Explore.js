@@ -12,10 +12,7 @@ const Explore = () => {
           <p className='max-w-xs mb-12'
            data-aos='fade-right' 
            data-aos-offset='1300'
-          >Lorem ipsum dolor sit amet, 
-            consectetur adipiscing elit, 
-            sed do eiusmod tempor incididunt 
-            ut labore.
+          >virtual reality is all about using a device like a special 3D video or image camera to create a three-dimensional world that a user .To know more about the product and explore it, give us your email.
             </p>
             {/*form */}
             <form className='flex flex-col w-full space-y-4
